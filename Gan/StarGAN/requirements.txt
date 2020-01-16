@@ -1,0 +1,7 @@
+numpy 
+opencv-contrib-python
+Pillow
+tqdm
+tensorflow
+keras
+git+https://www.github.com/keras-team/keras-contrib.git
